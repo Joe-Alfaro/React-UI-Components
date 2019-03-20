@@ -1,0 +1,23 @@
+.container {
+  margin: 15px;
+  border: 2px grey solid;
+  width: 452px;
+  height: 594px;
+}
+
+.row {
+  height: 15.8%;
+  width: 100%;
+  display: flex;
+}
+
+#row1 button:first-child,
+#row5 button:first-child {
+  width: 75%;
+}
+
+#row1 button:last-child,
+#row5 button:last-child {
+  width: 25%;
+}
+

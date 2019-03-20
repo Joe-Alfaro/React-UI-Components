@@ -1,0 +1,10 @@
+button {
+  width: 100%;
+  font-size: 4rem;
+}
+
+.action-button {
+  background-color: #A0001E;
+  color: white;
+  font-weight: lighter;
+}
